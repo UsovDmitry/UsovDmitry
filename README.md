@@ -3,8 +3,7 @@
 
 
 ## 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-Привет, меня зовут Дмитрий!
+![](https://komarev.com/ghpvc/?username=UsovDmitry&color=brightgreen)  Привет, меня зовут Дмитрий!
 Я новичёк-старичек в(для) IT индустрии. Но лучше поздно чем никогда ;)
 
 Люблю аналитику,искать то, чего нет на первый взгляд.  
