@@ -26,7 +26,8 @@ ____
 
 ___
 ### Сертификаты:
-* [Основы статистики (STEPIK)](https://stepik.org/cert/1466479)
+* [Основы статистики, STEPIK](https://stepik.org/cert/1466479) 
+[(Сертификат)](https://github.com/UsovDmitry/myResume/blob/main/stepik-certificate-76-702779f.pdf)
 * [Яндекс.Практикум](https://github.com/UsovDmitry/myResume/blob/main/cert.pdf/ "in process...")
 ___
 ### Курсы:
