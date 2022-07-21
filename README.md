@@ -44,9 +44,9 @@ ___
 ### Pet - проекты:
 | Название проекта  | Описание проекта | Статус |
 | ------------- | ------------- | ------------- |
-| [Телеграмм бот-помощник](https://github.com/UsovDmitry/Pet_project/blob/main/Chat_finadviz_tmp.ipynb)  | Бот с задатками ИИ, по запросу парсет курсы валют, погоду, может вести умные беседы :) )| В работе|
-| [Парсинг Погоды (Калининград)](https://github.com/UsovDmitry/Pet_project/blob/main/Weather_KLG.ipynb)  | Проба пера, парсинг погоды )| Завершен|
-| [Парсинг вакансий с hh.ru](https://github.com/UsovDmitry/Pet_project/blob/main/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D1%81%20hh.ipynb)  | Парсинг вакансий с сайта hh.ru. Можно задать ключевые слова поиска, опыт работы, город, дату размещения вакансии.)| Завершен|
+| [Телеграмм бот-помощник](https://github.com/UsovDmitry/Pet_project/blob/main/Chat_finadviz_tmp.ipynb)  | Бот с задатками ИИ, по запросу парсет курсы валют, погоду, может вести умные беседы :) | В работе|
+| [Парсинг Погоды (Калининград)](https://github.com/UsovDmitry/Pet_project/blob/main/Weather_KLG.ipynb)  | Проба пера, парсинг погоды| Завершен|
+| [Парсинг вакансий с hh.ru](https://github.com/UsovDmitry/Pet_project/blob/main/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D1%80%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D1%81%20hh.ipynb)  | Парсинг вакансий с сайта hh.ru. Можно задать ключевые слова поиска, опыт работы, город, дату размещения вакансии.| Завершен|
   
   
 ### Аналитика/ Data Science:
